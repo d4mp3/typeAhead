@@ -18,4 +18,4 @@ Sample of browser data from JSON
 To open it just see its github pages.
 
 ## Status
-Project is: _in progres_
+Project is: _finished_
